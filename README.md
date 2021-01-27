@@ -18,4 +18,4 @@ Steps
 #### Jupyter Notebook
 
 
-![ Titanic ](/source/titanic.jpeg)
+![Titanic](source/titanic.jpeg)
