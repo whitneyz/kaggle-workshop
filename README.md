@@ -48,6 +48,5 @@ Kernels = Kaggle's public analisys by people about the datasets
 
 #### Have fun :grinning:
 
-![Titanic](source/titanic.jpeg)
 
-![Titanic](https://media.giphy.com/media/XOY5y7YXjTD7q/giphy.gif)
+![](https://giphy.com/gifs/titanic-k-ok-n-4ryp9Ihw0BEyc)
